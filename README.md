@@ -44,7 +44,6 @@ The application returns:
 
 ## Live Demo
 
-https://huggingface.co/spaces/Ronnie-651/smart-mcq-solver-bilstm
 Hugging Face Space:
 
 https://huggingface.co/spaces/Ronnie-651/smart-mcq-solver-bilstm
